@@ -1,0 +1,342 @@
+COD_VAR;LIB_VAR;LIB_VAR_LONG;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
+NBMENFISC17;Nombre de ménages fiscaux;Nombre de ménages fiscaux;;;NUM;7
+NBPERSMENFISC17;Nombre de personnes dans les ménages fiscaux;Nombre de personnes dans les ménages fiscaux;;;NUM;7
+MED17;Médiane du niveau de vie (€);Médiane du niveau de vie (€);;;NUM;5
+PIMP17;Part des ménages fiscaux imposés (%);Part des ménages fiscaux imposés (%);;;NUM;4
+TP6017;Taux de pauvreté-Ensemble (%);Taux de pauvreté-Ensemble (%);;;NUM;4
+TP60AGE117;Taux de pauvreté-moins de 30 ans (%);Taux de pauvreté des personnes dans les ménages dont le référent fiscal a moins de 30 ans (%);;;NUM;4
+TP60AGE217;Taux de pauvreté-30 à 39 ans  (%);Taux de pauvreté des personnes dans les ménages dont le référent fiscal a de 30 à 39 ans (%);;;NUM;4
+TP60AGE317;Taux de pauvreté-40 à 49 ans (%);Taux de pauvreté des personnes dans les ménages dont le référent fiscal a de 40 à 49 ans (%);;;NUM;4
+TP60AGE417;Taux de pauvreté-50 à 59 ans (%);Taux de pauvreté des personnes dans les ménages dont le référent fiscal a de 50 à 59 ans (%);;;NUM;4
+TP60AGE517;Taux de pauvreté-60 à 74 ans (%);Taux de pauvreté des personnes dans les ménages dont le référent fiscal a de 60 à 74 ans (%);;;NUM;4
+TP60AGE617;Taux de pauvreté-75 ans ou plus (%);Taux de pauvreté des personnes dans les ménages dont le référent fiscal a 75 ans ou plus (%);;;NUM;4
+TP60TOL117;Taux de pauvreté-propriétaires (%);Taux de pauvreté des personnes dans les ménages propriétaires de leur logement (%);;;NUM;4
+TP60TOL217;Taux de pauvreté-locataires (%);Taux de pauvreté des personnes dans les ménages locataires de leur logement (%);;;NUM;4
+PACT17;Part des revenus d'activité (%);Part des revenus d'activité (%);;;NUM;4
+PTSA17;dont part des salaires et traitements (%);dont part des salaires et traitements (%);;;NUM;4
+PCHO17;dont part des indemnités de chômage (%);dont part des indemnités de chômage (%);;;NUM;3
+PBEN17;dont part des revenus des activités non salariées (%);dont part des revenus des activités non salariées (%);;;NUM;4
+PPEN17;Part des pensions, retraites et rentes (%);Part des pensions, retraites et rentes (%);;;NUM;4
+PPAT17;Part des revenus du patrimoine et autres revenus (%);Part des revenus du patrimoine et des autres revenus (%);;;NUM;4
+PPSOC17;Part de l'ensemble des prestations sociales (%);Part de l'ensemble des prestations sociales (%);;;NUM;4
+PPFAM17;dont part des prestations familiales (%);dont part des prestations familiales (%);;;NUM;3
+PPMINI17;dont part des minima sociaux (%);dont part des minima sociaux (%);;;NUM;4
+PPLOGT17;dont part des prestations logement (%);dont part des prestations logement (%);;;NUM;3
+PIMPOT17;Part des impôts (%);Part des impôts (%);;;NUM;5
+D117;1er décile du niveau de vie (€);1er décile du niveau de vie (€);;;NUM;5
+D917;9e décile du niveau de vie (€);9e décile du niveau de vie (€);;;NUM;5
+RD17;Rapport interdécile 9e décile/1er décile;Rapport interdécile 9e décile/1er décile;;;NUM;3
+CODGEO;Code géographique;Code géographique;0050;Mont-de-Marsan;CHAR;4
+CODGEO;Code géographique;Code géographique;0051;Alençon;CHAR;4
+CODGEO;Code géographique;Code géographique;0052;Cosne - Clamecy;CHAR;4
+CODGEO;Code géographique;Code géographique;0053;Mâcon;CHAR;4
+CODGEO;Code géographique;Code géographique;0054;Nogent-le-Rotrou;CHAR;4
+CODGEO;Code géographique;Code géographique;0055;La Vallée de la Bresle - Vimeu;CHAR;4
+CODGEO;Code géographique;Code géographique;0056;Roissy - Sud Picardie;CHAR;4
+CODGEO;Code géographique;Code géographique;0057;Brive-la-Gaillarde;CHAR;4
+CODGEO;Code géographique;Code géographique;0059;Avignon;CHAR;4
+CODGEO;Code géographique;Code géographique;0060;Saint-Étienne;CHAR;4
+CODGEO;Code géographique;Code géographique;0061;Toulouse;CHAR;4
+CODGEO;Code géographique;Code géographique;0201;Le Centre agglomération;CHAR;4
+CODGEO;Code géographique;Code géographique;0202;Le Sud-Caraibe;CHAR;4
+CODGEO;Code géographique;Code géographique;0203;Le Sud;CHAR;4
+CODGEO;Code géographique;Code géographique;0204;Le Centre-Atlantique;CHAR;4
+CODGEO;Code géographique;Code géographique;0205;Le Nord-Caraibe;CHAR;4
+CODGEO;Code géographique;Code géographique;0206;Le Nord-Atlantique;CHAR;4
+CODGEO;Code géographique;Code géographique;0401;L'Est;CHAR;4
+CODGEO;Code géographique;Code géographique;0402;Le Nord;CHAR;4
+CODGEO;Code géographique;Code géographique;0403;L'Ouest;CHAR;4
+CODGEO;Code géographique;Code géographique;0404;Le Sud;CHAR;4
+CODGEO;Code géographique;Code géographique;1101;Paris;CHAR;4
+CODGEO;Code géographique;Code géographique;1102;Marne-la-Vallée;CHAR;4
+CODGEO;Code géographique;Code géographique;1103;Coulommiers;CHAR;4
+CODGEO;Code géographique;Code géographique;1104;Meaux;CHAR;4
+CODGEO;Code géographique;Code géographique;1105;Melun;CHAR;4
+CODGEO;Code géographique;Code géographique;1106;Montereau-Fault-Yonne;CHAR;4
+CODGEO;Code géographique;Code géographique;1107;Nemours;CHAR;4
+CODGEO;Code géographique;Code géographique;1108;Provins;CHAR;4
+CODGEO;Code géographique;Code géographique;1109;Houdan;CHAR;4
+CODGEO;Code géographique;Code géographique;1110;Mantes-la-Jolie;CHAR;4
+CODGEO;Code géographique;Code géographique;1111;Poissy;CHAR;4
+CODGEO;Code géographique;Code géographique;1112;Rambouillet;CHAR;4
+CODGEO;Code géographique;Code géographique;1113;Plaisir;CHAR;4
+CODGEO;Code géographique;Code géographique;1114;Étampes;CHAR;4
+CODGEO;Code géographique;Code géographique;1115;Évry-Courcouronnes;CHAR;4
+CODGEO;Code géographique;Code géographique;1116;Saclay;CHAR;4
+CODGEO;Code géographique;Code géographique;1117;Créteil;CHAR;4
+CODGEO;Code géographique;Code géographique;1118;Orly;CHAR;4
+CODGEO;Code géographique;Code géographique;1119;Cergy;CHAR;4
+CODGEO;Code géographique;Code géographique;2101;Charleville-Mézières;CHAR;4
+CODGEO;Code géographique;Code géographique;2102;Troyes;CHAR;4
+CODGEO;Code géographique;Code géographique;2103;Châlons-en-Champagne;CHAR;4
+CODGEO;Code géographique;Code géographique;2104;Épernay;CHAR;4
+CODGEO;Code géographique;Code géographique;2105;Reims;CHAR;4
+CODGEO;Code géographique;Code géographique;2106;Chaumont - Langres;CHAR;4
+CODGEO;Code géographique;Code géographique;2107;Vitry-le-François - Saint-Dizier;CHAR;4
+CODGEO;Code géographique;Code géographique;2201;Château-Thierry;CHAR;4
+CODGEO;Code géographique;Code géographique;2202;Tergnier;CHAR;4
+CODGEO;Code géographique;Code géographique;2203;La Thiérache;CHAR;4
+CODGEO;Code géographique;Code géographique;2204;Laon;CHAR;4
+CODGEO;Code géographique;Code géographique;2205;Saint-Quentin;CHAR;4
+CODGEO;Code géographique;Code géographique;2206;Soissons;CHAR;4
+CODGEO;Code géographique;Code géographique;2207;Beauvais;CHAR;4
+CODGEO;Code géographique;Code géographique;2208;Compiègne;CHAR;4
+CODGEO;Code géographique;Code géographique;2209;Abbeville;CHAR;4
+CODGEO;Code géographique;Code géographique;2210;Amiens;CHAR;4
+CODGEO;Code géographique;Code géographique;2211;Péronne;CHAR;4
+CODGEO;Code géographique;Code géographique;2301;Bernay;CHAR;4
+CODGEO;Code géographique;Code géographique;2302;Évreux;CHAR;4
+CODGEO;Code géographique;Code géographique;2303;Pont-Audemer;CHAR;4
+CODGEO;Code géographique;Code géographique;2304;Vernon - Gisors;CHAR;4
+CODGEO;Code géographique;Code géographique;2305;Dieppe - Caux maritime;CHAR;4
+CODGEO;Code géographique;Code géographique;2306;Le Havre;CHAR;4
+CODGEO;Code géographique;Code géographique;2307;Rouen;CHAR;4
+CODGEO;Code géographique;Code géographique;2401;Bourges;CHAR;4
+CODGEO;Code géographique;Code géographique;2402;Saint-Amand-Montrond;CHAR;4
+CODGEO;Code géographique;Code géographique;2403;Vierzon;CHAR;4
+CODGEO;Code géographique;Code géographique;2404;Chartres;CHAR;4
+CODGEO;Code géographique;Code géographique;2405;Châteaudun;CHAR;4
+CODGEO;Code géographique;Code géographique;2406;Dreux;CHAR;4
+CODGEO;Code géographique;Code géographique;2407;Le Blanc;CHAR;4
+CODGEO;Code géographique;Code géographique;2408;Issoudun;CHAR;4
+CODGEO;Code géographique;Code géographique;2409;Châteauroux;CHAR;4
+CODGEO;Code géographique;Code géographique;2410;Chinon;CHAR;4
+CODGEO;Code géographique;Code géographique;2411;Loches;CHAR;4
+CODGEO;Code géographique;Code géographique;2412;Tours;CHAR;4
+CODGEO;Code géographique;Code géographique;2413;Blois;CHAR;4
+CODGEO;Code géographique;Code géographique;2414;Romorantin-Lanthenay;CHAR;4
+CODGEO;Code géographique;Code géographique;2415;Vendôme;CHAR;4
+CODGEO;Code géographique;Code géographique;2416;Gien;CHAR;4
+CODGEO;Code géographique;Code géographique;2417;Montargis;CHAR;4
+CODGEO;Code géographique;Code géographique;2418;Orléans;CHAR;4
+CODGEO;Code géographique;Code géographique;2419;Pithiviers;CHAR;4
+CODGEO;Code géographique;Code géographique;2501;Bayeux;CHAR;4
+CODGEO;Code géographique;Code géographique;2502;Caen;CHAR;4
+CODGEO;Code géographique;Code géographique;2503;Honfleur;CHAR;4
+CODGEO;Code géographique;Code géographique;2504;Lisieux;CHAR;4
+CODGEO;Code géographique;Code géographique;2505;Vire Normandie;CHAR;4
+CODGEO;Code géographique;Code géographique;2506;Avranches;CHAR;4
+CODGEO;Code géographique;Code géographique;2507;Cherbourg-en-Cotentin;CHAR;4
+CODGEO;Code géographique;Code géographique;2508;Coutances;CHAR;4
+CODGEO;Code géographique;Code géographique;2509;Granville;CHAR;4
+CODGEO;Code géographique;Code géographique;2510;Saint-Lô;CHAR;4
+CODGEO;Code géographique;Code géographique;2511;Argentan;CHAR;4
+CODGEO;Code géographique;Code géographique;2512;Flers;CHAR;4
+CODGEO;Code géographique;Code géographique;2513;L'Aigle;CHAR;4
+CODGEO;Code géographique;Code géographique;2601;Beaune;CHAR;4
+CODGEO;Code géographique;Code géographique;2602;Chatillon;CHAR;4
+CODGEO;Code géographique;Code géographique;2603;Dijon;CHAR;4
+CODGEO;Code géographique;Code géographique;2604;Montbard;CHAR;4
+CODGEO;Code géographique;Code géographique;2605;Le Morvan;CHAR;4
+CODGEO;Code géographique;Code géographique;2606;Nevers;CHAR;4
+CODGEO;Code géographique;Code géographique;2607;Autun;CHAR;4
+CODGEO;Code géographique;Code géographique;2608;Chalon-sur-Saône;CHAR;4
+CODGEO;Code géographique;Code géographique;2609;Louhans;CHAR;4
+CODGEO;Code géographique;Code géographique;2610;Le Creusot - Montceau;CHAR;4
+CODGEO;Code géographique;Code géographique;2611;Le Charolais;CHAR;4
+CODGEO;Code géographique;Code géographique;2612;Auxerre;CHAR;4
+CODGEO;Code géographique;Code géographique;2613;Avallon;CHAR;4
+CODGEO;Code géographique;Code géographique;2614;Sens;CHAR;4
+CODGEO;Code géographique;Code géographique;3110;Roubaix - Tourcoing;CHAR;4
+CODGEO;Code géographique;Code géographique;3111;Lille;CHAR;4
+CODGEO;Code géographique;Code géographique;3112;Dunkerque;CHAR;4
+CODGEO;Code géographique;Code géographique;3113;La Flandre - Lys;CHAR;4
+CODGEO;Code géographique;Code géographique;3114;Douai;CHAR;4
+CODGEO;Code géographique;Code géographique;3115;Valenciennes;CHAR;4
+CODGEO;Code géographique;Code géographique;3116;Cambrai;CHAR;4
+CODGEO;Code géographique;Code géographique;3117;Maubeuge;CHAR;4
+CODGEO;Code géographique;Code géographique;3121;Arras;CHAR;4
+CODGEO;Code géographique;Code géographique;3122;Lens - Hénin;CHAR;4
+CODGEO;Code géographique;Code géographique;3123;Béthune - Bruay;CHAR;4
+CODGEO;Code géographique;Code géographique;3124;Saint-Omer;CHAR;4
+CODGEO;Code géographique;Code géographique;3125;Calais;CHAR;4
+CODGEO;Code géographique;Code géographique;3126;Boulogne-sur-mer;CHAR;4
+CODGEO;Code géographique;Code géographique;3127;Berck - Montreuil;CHAR;4
+CODGEO;Code géographique;Code géographique;4101;Longwy;CHAR;4
+CODGEO;Code géographique;Code géographique;4102;Lunéville;CHAR;4
+CODGEO;Code géographique;Code géographique;4103;Nancy;CHAR;4
+CODGEO;Code géographique;Code géographique;4104;Bar-le-Duc;CHAR;4
+CODGEO;Code géographique;Code géographique;4105;Commercy;CHAR;4
+CODGEO;Code géographique;Code géographique;4106;Verdun;CHAR;4
+CODGEO;Code géographique;Code géographique;4107;Metz;CHAR;4
+CODGEO;Code géographique;Code géographique;4108;Forbach;CHAR;4
+CODGEO;Code géographique;Code géographique;4109;Sarrebourg;CHAR;4
+CODGEO;Code géographique;Code géographique;4110;Sarreguemines;CHAR;4
+CODGEO;Code géographique;Code géographique;4111;Thionville;CHAR;4
+CODGEO;Code géographique;Code géographique;4112;Épinal;CHAR;4
+CODGEO;Code géographique;Code géographique;4113;Remiremont;CHAR;4
+CODGEO;Code géographique;Code géographique;4114;Saint-Dié-des-Vosges;CHAR;4
+CODGEO;Code géographique;Code géographique;4115;Neufchâteau;CHAR;4
+CODGEO;Code géographique;Code géographique;4201;Haguenau;CHAR;4
+CODGEO;Code géographique;Code géographique;4202;Molsheim - Obernai;CHAR;4
+CODGEO;Code géographique;Code géographique;4203;Saverne;CHAR;4
+CODGEO;Code géographique;Code géographique;4204;Sélestat;CHAR;4
+CODGEO;Code géographique;Code géographique;4205;Strasbourg;CHAR;4
+CODGEO;Code géographique;Code géographique;4206;Wissembourg;CHAR;4
+CODGEO;Code géographique;Code géographique;4207;Colmar;CHAR;4
+CODGEO;Code géographique;Code géographique;4208;Mulhouse;CHAR;4
+CODGEO;Code géographique;Code géographique;4209;Saint-Louis;CHAR;4
+CODGEO;Code géographique;Code géographique;4301;Besançon;CHAR;4
+CODGEO;Code géographique;Code géographique;4302;Belfort - Montbéliard - Héricourt;CHAR;4
+CODGEO;Code géographique;Code géographique;4303;Morteau;CHAR;4
+CODGEO;Code géographique;Code géographique;4304;Pontarlier;CHAR;4
+CODGEO;Code géographique;Code géographique;4305;Dole;CHAR;4
+CODGEO;Code géographique;Code géographique;4306;Lons-le-Saunier;CHAR;4
+CODGEO;Code géographique;Code géographique;4307;Saint-Claude;CHAR;4
+CODGEO;Code géographique;Code géographique;4308;Gray;CHAR;4
+CODGEO;Code géographique;Code géographique;4309;Vesoul;CHAR;4
+CODGEO;Code géographique;Code géographique;5201;Ancenis-Saint-Géréon;CHAR;4
+CODGEO;Code géographique;Code géographique;5202;Châteaubriant;CHAR;4
+CODGEO;Code géographique;Code géographique;5203;Nantes;CHAR;4
+CODGEO;Code géographique;Code géographique;5204;Saint-Nazaire;CHAR;4
+CODGEO;Code géographique;Code géographique;5205;Angers;CHAR;4
+CODGEO;Code géographique;Code géographique;5206;Cholet;CHAR;4
+CODGEO;Code géographique;Code géographique;5207;Saumur;CHAR;4
+CODGEO;Code géographique;Code géographique;5208;Segré;CHAR;4
+CODGEO;Code géographique;Code géographique;5209;Laval;CHAR;4
+CODGEO;Code géographique;Code géographique;5210;Mayenne;CHAR;4
+CODGEO;Code géographique;Code géographique;5211;La Ferté-Bernard;CHAR;4
+CODGEO;Code géographique;Code géographique;5212;La Flèche;CHAR;4
+CODGEO;Code géographique;Code géographique;5213;Le Mans;CHAR;4
+CODGEO;Code géographique;Code géographique;5214;Sablé-sur-Sarthe;CHAR;4
+CODGEO;Code géographique;Code géographique;5215;Challans;CHAR;4
+CODGEO;Code géographique;Code géographique;5216;Fontenay-le-Comte;CHAR;4
+CODGEO;Code géographique;Code géographique;5217;Les Herbiers;CHAR;4
+CODGEO;Code géographique;Code géographique;5218;La Roche-sur-Yon;CHAR;4
+CODGEO;Code géographique;Code géographique;5219;Les Sables-d'Olonne;CHAR;4
+CODGEO;Code géographique;Code géographique;5301;Dinan;CHAR;4
+CODGEO;Code géographique;Code géographique;5302;Guingamp;CHAR;4
+CODGEO;Code géographique;Code géographique;5303;Lannion;CHAR;4
+CODGEO;Code géographique;Code géographique;5304;Loudéac;CHAR;4
+CODGEO;Code géographique;Code géographique;5305;Saint-Brieuc;CHAR;4
+CODGEO;Code géographique;Code géographique;5306;Brest;CHAR;4
+CODGEO;Code géographique;Code géographique;5307;Carhaix-Plouguer;CHAR;4
+CODGEO;Code géographique;Code géographique;5308;Morlaix;CHAR;4
+CODGEO;Code géographique;Code géographique;5309;Quimper;CHAR;4
+CODGEO;Code géographique;Code géographique;5310;Fougères;CHAR;4
+CODGEO;Code géographique;Code géographique;5311;Redon;CHAR;4
+CODGEO;Code géographique;Code géographique;5312;Rennes;CHAR;4
+CODGEO;Code géographique;Code géographique;5313;Saint-Malo;CHAR;4
+CODGEO;Code géographique;Code géographique;5314;Vitré;CHAR;4
+CODGEO;Code géographique;Code géographique;5315;Lorient;CHAR;4
+CODGEO;Code géographique;Code géographique;5316;Ploërmel;CHAR;4
+CODGEO;Code géographique;Code géographique;5317;Pontivy;CHAR;4
+CODGEO;Code géographique;Code géographique;5318;Vannes;CHAR;4
+CODGEO;Code géographique;Code géographique;5401;Thouars - Loudun;CHAR;4
+CODGEO;Code géographique;Code géographique;5402;Châtellerault;CHAR;4
+CODGEO;Code géographique;Code géographique;5403;Angoulême;CHAR;4
+CODGEO;Code géographique;Code géographique;5404;Jonzac - Barbezieux-Saint-Hilaire;CHAR;4
+CODGEO;Code géographique;Code géographique;5405;Cognac;CHAR;4
+CODGEO;Code géographique;Code géographique;5406;Saintes - Saint-Jean-d'Angely;CHAR;4
+CODGEO;Code géographique;Code géographique;5407;Royan;CHAR;4
+CODGEO;Code géographique;Code géographique;5408;Rochefort;CHAR;4
+CODGEO;Code géographique;Code géographique;5409;La Rochelle;CHAR;4
+CODGEO;Code géographique;Code géographique;5410;Niort;CHAR;4
+CODGEO;Code géographique;Code géographique;5411;Parthenay;CHAR;4
+CODGEO;Code géographique;Code géographique;5412;Bressuire;CHAR;4
+CODGEO;Code géographique;Code géographique;5413;Poitiers;CHAR;4
+CODGEO;Code géographique;Code géographique;7201;Bergerac;CHAR;4
+CODGEO;Code géographique;Code géographique;7202;Périgueux;CHAR;4
+CODGEO;Code géographique;Code géographique;7203;Sarlat-la-Canéda;CHAR;4
+CODGEO;Code géographique;Code géographique;7204;Bordeaux;CHAR;4
+CODGEO;Code géographique;Code géographique;7205;Libourne;CHAR;4
+CODGEO;Code géographique;Code géographique;7206;Pauillac;CHAR;4
+CODGEO;Code géographique;Code géographique;7207;La Teste-de-Buch;CHAR;4
+CODGEO;Code géographique;Code géographique;7208;Dax;CHAR;4
+CODGEO;Code géographique;Code géographique;7209;Agen;CHAR;4
+CODGEO;Code géographique;Code géographique;7210;Marmande;CHAR;4
+CODGEO;Code géographique;Code géographique;7211;Villeneuve-sur-Lot;CHAR;4
+CODGEO;Code géographique;Code géographique;7212;Bayonne;CHAR;4
+CODGEO;Code géographique;Code géographique;7213;Oloron-Sainte-Marie;CHAR;4
+CODGEO;Code géographique;Code géographique;7214;Pau;CHAR;4
+CODGEO;Code géographique;Code géographique;7301;Foix - Pamiers;CHAR;4
+CODGEO;Code géographique;Code géographique;7302;Saint-Girons;CHAR;4
+CODGEO;Code géographique;Code géographique;7303;Millau;CHAR;4
+CODGEO;Code géographique;Code géographique;7304;Rodez;CHAR;4
+CODGEO;Code géographique;Code géographique;7305;Villefranche-de-Rouergue;CHAR;4
+CODGEO;Code géographique;Code géographique;7306;Saint-Gaudens;CHAR;4
+CODGEO;Code géographique;Code géographique;7307;Auch;CHAR;4
+CODGEO;Code géographique;Code géographique;7308;Cahors;CHAR;4
+CODGEO;Code géographique;Code géographique;7309;Figeac;CHAR;4
+CODGEO;Code géographique;Code géographique;7310;Tarbes - Lourdes;CHAR;4
+CODGEO;Code géographique;Code géographique;7311;Albi;CHAR;4
+CODGEO;Code géographique;Code géographique;7312;Castres - Mazamet;CHAR;4
+CODGEO;Code géographique;Code géographique;7313;Montauban;CHAR;4
+CODGEO;Code géographique;Code géographique;7401;Tulle;CHAR;4
+CODGEO;Code géographique;Code géographique;7402;Ussel;CHAR;4
+CODGEO;Code géographique;Code géographique;7403;Guéret;CHAR;4
+CODGEO;Code géographique;Code géographique;7404;Limoges;CHAR;4
+CODGEO;Code géographique;Code géographique;8201;Ambérieu-en-Bugey;CHAR;4
+CODGEO;Code géographique;Code géographique;8202;Bourg-en-Bresse;CHAR;4
+CODGEO;Code géographique;Code géographique;8203;Oyonnax;CHAR;4
+CODGEO;Code géographique;Code géographique;8204;Annonay;CHAR;4
+CODGEO;Code géographique;Code géographique;8205;Aubenas;CHAR;4
+CODGEO;Code géographique;Code géographique;8206;Montélimar;CHAR;4
+CODGEO;Code géographique;Code géographique;8207;Romans-sur-Isère;CHAR;4
+CODGEO;Code géographique;Code géographique;8208;Valence;CHAR;4
+CODGEO;Code géographique;Code géographique;8209;Bourgoin-Jallieu;CHAR;4
+CODGEO;Code géographique;Code géographique;8210;Grenoble;CHAR;4
+CODGEO;Code géographique;Code géographique;8211;Vienne - Roussillon;CHAR;4
+CODGEO;Code géographique;Code géographique;8212;Roanne;CHAR;4
+CODGEO;Code géographique;Code géographique;8213;Villefranche-sur-Saône;CHAR;4
+CODGEO;Code géographique;Code géographique;8214;Lyon;CHAR;4
+CODGEO;Code géographique;Code géographique;8215;La Tarentaise;CHAR;4
+CODGEO;Code géographique;Code géographique;8216;Chambéry;CHAR;4
+CODGEO;Code géographique;Code géographique;8217;La Maurienne;CHAR;4
+CODGEO;Code géographique;Code géographique;8218;Annecy;CHAR;4
+CODGEO;Code géographique;Code géographique;8219;Le Genevois Français;CHAR;4
+CODGEO;Code géographique;Code géographique;8220;La Vallée de l'Arve;CHAR;4
+CODGEO;Code géographique;Code géographique;8221;Le Mont Blanc;CHAR;4
+CODGEO;Code géographique;Code géographique;8222;Le Chablais;CHAR;4
+CODGEO;Code géographique;Code géographique;8301;Montluçon;CHAR;4
+CODGEO;Code géographique;Code géographique;8302;Moulins;CHAR;4
+CODGEO;Code géographique;Code géographique;8303;Vichy;CHAR;4
+CODGEO;Code géographique;Code géographique;8304;Aurillac;CHAR;4
+CODGEO;Code géographique;Code géographique;8305;Mauriac;CHAR;4
+CODGEO;Code géographique;Code géographique;8306;Saint-Flour;CHAR;4
+CODGEO;Code géographique;Code géographique;8307;Brioude;CHAR;4
+CODGEO;Code géographique;Code géographique;8308;Le Puy-en-Velay;CHAR;4
+CODGEO;Code géographique;Code géographique;8309;Ambert;CHAR;4
+CODGEO;Code géographique;Code géographique;8310;Clermont-Ferrand;CHAR;4
+CODGEO;Code géographique;Code géographique;8311;Issoire;CHAR;4
+CODGEO;Code géographique;Code géographique;8312;Thiers;CHAR;4
+CODGEO;Code géographique;Code géographique;9101;Carcassonne;CHAR;4
+CODGEO;Code géographique;Code géographique;9102;Limoux;CHAR;4
+CODGEO;Code géographique;Code géographique;9103;Narbonne;CHAR;4
+CODGEO;Code géographique;Code géographique;9104;Alès;CHAR;4
+CODGEO;Code géographique;Code géographique;9105;Bagnols-sur-Cèze;CHAR;4
+CODGEO;Code géographique;Code géographique;9106;Nîmes;CHAR;4
+CODGEO;Code géographique;Code géographique;9107;Agde - Pézenas;CHAR;4
+CODGEO;Code géographique;Code géographique;9108;Béziers;CHAR;4
+CODGEO;Code géographique;Code géographique;9109;Clermont-l'Hérault - Lodève;CHAR;4
+CODGEO;Code géographique;Code géographique;9110;Ganges;CHAR;4
+CODGEO;Code géographique;Code géographique;9111;Montpellier;CHAR;4
+CODGEO;Code géographique;Code géographique;9112;Sète;CHAR;4
+CODGEO;Code géographique;Code géographique;9113;La Lozère;CHAR;4
+CODGEO;Code géographique;Code géographique;9114;Céret;CHAR;4
+CODGEO;Code géographique;Code géographique;9115;Perpignan;CHAR;4
+CODGEO;Code géographique;Code géographique;9116;Prades;CHAR;4
+CODGEO;Code géographique;Code géographique;9301;Digne-les-Bains;CHAR;4
+CODGEO;Code géographique;Code géographique;9302;Manosque;CHAR;4
+CODGEO;Code géographique;Code géographique;9303;Briançon;CHAR;4
+CODGEO;Code géographique;Code géographique;9304;Gap;CHAR;4
+CODGEO;Code géographique;Code géographique;9305;Cannes - Antibes;CHAR;4
+CODGEO;Code géographique;Code géographique;9306;Menton - Vallée de la Roya;CHAR;4
+CODGEO;Code géographique;Code géographique;9307;Nice;CHAR;4
+CODGEO;Code géographique;Code géographique;9308;Aix-en-Provence;CHAR;4
+CODGEO;Code géographique;Code géographique;9309;Arles;CHAR;4
+CODGEO;Code géographique;Code géographique;9310;Marseille - Aubagne;CHAR;4
+CODGEO;Code géographique;Code géographique;9311;Istres - Martigues;CHAR;4
+CODGEO;Code géographique;Code géographique;9312;Salon-de-Provence;CHAR;4
+CODGEO;Code géographique;Code géographique;9313;Draguignan;CHAR;4
+CODGEO;Code géographique;Code géographique;9314;Fréjus - Saint-Raphaël;CHAR;4
+CODGEO;Code géographique;Code géographique;9315;Toulon;CHAR;4
+CODGEO;Code géographique;Code géographique;9316;Cavaillon - Apt;CHAR;4
+CODGEO;Code géographique;Code géographique;9317;Orange;CHAR;4
+CODGEO;Code géographique;Code géographique;9401;Ajaccio;CHAR;4
+CODGEO;Code géographique;Code géographique;9402;Porto-Vecchio;CHAR;4
+CODGEO;Code géographique;Code géographique;9403;Sartène - Propriano;CHAR;4
+CODGEO;Code géographique;Code géographique;9404;Bastia;CHAR;4
+CODGEO;Code géographique;Code géographique;9405;Calvi - L'Île-Rousse;CHAR;4
+CODGEO;Code géographique;Code géographique;9406;Corte;CHAR;4
+CODGEO;Code géographique;Code géographique;9407;Ghisonaccia - Aléria;CHAR;4
